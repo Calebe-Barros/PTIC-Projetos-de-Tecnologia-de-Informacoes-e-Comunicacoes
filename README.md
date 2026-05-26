@@ -1,8 +1,8 @@
 # 🗄️ BProjetos de Tecnologia de Informações e Comunicações - ETECVAV
 
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
-![Disciplina](https://img.shields.io/badge/disciplina-Banco%20de%20Dados-blue)
-![Ferramentas](https://img.shields.io/badge/ferramentas-BRModelo%20%7C%20Word%20%7C%20PowerPoint-green)
+![Disciplina](https://img.shields.io/badge/disciplina-PTIC-blue)
+![Ferramentas](https://img.shields.io/badge/ferramentas-Office%20%7C%20Word%20%7C%20PowerPoint-green)
 
 ---
 
