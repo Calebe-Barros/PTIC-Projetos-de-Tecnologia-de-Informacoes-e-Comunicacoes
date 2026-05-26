@@ -1,4 +1,4 @@
-# 🗄️ BProjetos de Tecnologia de Informações e Comunicações - ETECVAV
+# 🗄️ Projetos de Tecnologia de Informações e Comunicações - ETECVAV
 
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 ![Disciplina](https://img.shields.io/badge/disciplina-PTIC-blue)
