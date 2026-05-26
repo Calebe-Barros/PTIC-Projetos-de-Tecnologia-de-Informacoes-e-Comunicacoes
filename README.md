@@ -45,7 +45,7 @@ Este repositório foi criado para armazenar atividades, projetos, exercícios e 
 ---
 
 ## 🚀 Objetivo
-Desenvolver habilidades relacionadas à modelagem e estruturação de bancos de dados, aplicando conceitos teóricos e práticos ao longo do curso.
+Desenvolver habilidades relacionadas à modelagem e estruturação de Projetos de Tecnologia de Informações e Comunicações, aplicando conceitos teóricos e práticos ao longo do curso.
 
 ---
 
