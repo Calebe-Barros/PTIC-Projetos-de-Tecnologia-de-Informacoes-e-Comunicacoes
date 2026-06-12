@@ -17,6 +17,16 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 
 ---
 
+## 💳 Certificado
+
+<p align="center">
+  <img src="CERTIFICADO-PTIC/ibm-skillsbuild-ptic.png" alt="Certificado IBM SkillsBuild" width="800">
+</p>
+
+🔗 [Ver certificado oficial](https://skills.yourlearning.ibm.com/certificate/share/8b7190ea18ewogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNjM4MyIKfQa1f03774df-10)
+
+---
+
 ## 📘 Disciplina
 **Projetos de Tecnologia de Informações e Comunicações**
 
