@@ -20,9 +20,7 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 ## 💳 Certificado
 
 <p align="center">
-  <img src="CERTIFICADO-PTIC/ibm-skillsbuild-ptic.png" alt="Certificado IBM SkillsBuild" width="400">
-</p>
-<p align="center">
+  <img src="CERTIFICADO-PTIC/ibm-skillsbuild-ptic.png" alt="Certificado IBM SkillsBuild" width="400" hspace="10">
   <img src="CERTIFICADO-PTIC/ibm-skillsbuild-ptic2.png" alt="Certificado IBM SkillsBuild" width="400">
 </p>
 
